@@ -19,7 +19,7 @@ NexusBlog is a full-stack, welcoming publishing platform built with the MERN sta
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React 19, React Router v7, TailwindCSS, Lucide Icons, Vite
 - **Backend**: Node.js, Express.js 5, MongoDB, Mongoose, JSON Web Tokens (JWT), Bcrypt.js
@@ -27,7 +27,7 @@ NexusBlog is a full-stack, welcoming publishing platform built with the MERN sta
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
